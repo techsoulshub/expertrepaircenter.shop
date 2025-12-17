@@ -1,14 +1,14 @@
 <?php
 
-function send_smtp_email($to, $subject, $message, $from_email = 'support@homerepaircenter.shop', $from_name = 'homerepaircenter')
+function send_smtp_email($to, $subject, $message, $from_email = 'info@expertrepaircenter.shop', $from_name = 'expertrepaircenter')
 {
 	$CI = &get_instance();
 	$config = array(
 		'protocol'    => 'smtp',
 		'smtp_host'   => 'smtp.hostinger.com',  // Change to your SMTP host
 		'smtp_port'   => 465,               // TLS: 587, SSL: 465
-		'smtp_user'   => 'support@homerepaircenter.shop', // Your SMTP username
-		'smtp_pass'   => '2pbK@|iK:',    // SMTP password or app password
+		'smtp_user'   => 'info@expertrepaircenter.shop', // Your SMTP username
+		'smtp_pass'   => '~b5Vu#1K+&F',    // SMTP password or app password
 		'smtp_crypto' => 'ssl',             // ssl or tls
 		'mailtype'    => 'html',
 		'charset'     => 'utf-8',
