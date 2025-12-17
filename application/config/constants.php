@@ -24,8 +24,8 @@ defined('EXIT_DATABASE')       or define('EXIT_DATABASE', 8);
 defined('EXIT__AUTO_MIN')      or define('EXIT__AUTO_MIN', 9); 
 defined('EXIT__AUTO_MAX')      or define('EXIT__AUTO_MAX', 125); 
 // Custom Constants
-defined('PLATFORMNAME')      or define('PLATFORMNAME', 'expertrepaircenter.shop'); 
-defined('PLATFORMTITLE')      or define('PLATFORMTITLE', 'HOME REPAIR CENTER'); 
-defined('PLATFORMEMAIL')      or define('PLATFORMEMAIL', 'homerepaircentershop@gmail.com'); 
-defined('PLATFORMADD')      or define('PLATFORMADD', 'New Sayal Madrsa Colony,Ramgarh, Jharkhand, Pincode: 829125'); 
-defined('PLATFORMCONTACT')      or define('PLATFORMCONTACT', '9109711906'); 
+defined('PLATFORMNAME')      or define('PLATFORMNAME', 'EXPERT REPAIR CENTER SHOP'); 
+defined('PLATFORMTITLE')      or define('PLATFORMTITLE', 'EXPERT REPAIR CENTER SHOP'); 
+defined('PLATFORMEMAIL')      or define('PLATFORMEMAIL', 'support@expertrepaircenter.shop'); 
+defined('PLATFORMADD')      or define('PLATFORMADD', ''); 
+defined('PLATFORMCONTACT')      or define('PLATFORMCONTACT', '9953233255'); 
