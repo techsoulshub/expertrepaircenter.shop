@@ -28,4 +28,4 @@ defined('PLATFORMNAME')      or define('PLATFORMNAME', 'EXPERT REPAIR CENTER SHO
 defined('PLATFORMTITLE')      or define('PLATFORMTITLE', 'EXPERT REPAIR CENTER SHOP'); 
 defined('PLATFORMEMAIL')      or define('PLATFORMEMAIL', 'support@expertrepaircenter.shop'); 
 defined('PLATFORMADD')      or define('PLATFORMADD', ''); 
-defined('PLATFORMCONTACT')      or define('PLATFORMCONTACT', '9953233255'); 
+defined('PLATFORMCONTACT')      or define('PLATFORMCONTACT', '9915172536'); 
