@@ -8,7 +8,7 @@
             <div class="col-md-6 mb-3">
                 <h5 class="mb-2 text-white" style="font-weight:700;"><?= PLATFORMTITLE ?></h5>
                 <p class="mb-0 ">
-                    Homerepaircenter.shop is owned and operated by Home Repair Center, providing repair services for Air Conditioners, Refrigerators, Microwave Ovens, and Washing Machines.
+                    <?= base_url() ?> is owned and operated by <?= PLATFORMTITLE ?>, providing repair services for Air Conditioners, Refrigerators, Microwave Ovens, and Washing Machines.
                 </p>
             </div>
             <!-- Quick Links -->

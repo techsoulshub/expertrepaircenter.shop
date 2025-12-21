@@ -12,16 +12,26 @@
                                 <div class="cs-service-details-col animated bounceInLeft slow delay-250">
                                     <img class="imge-1 rounded box" 
                                          src="<?= base_url() ?>assets/images/service/ac1.png" 
-                                         alt="AC Repair Service">
+                                         alt="Air Conditioner Repair Service Near Me">
                                 </div>
                             </div>
                         </div>
-                        <h3 class="text-center mt-3 fw-bold">Air Conditioner Service & Repair</h3>
+
+                        <!-- H1 -->
+                        <h3 class="text-center mt-3 fw-bold">
+                            Air Conditioner (AC) Repair & Service at Home
+                        </h3>
 
                         <!-- Visit Charge -->
                         <p class="text-center text-danger fw-bold mt-2" style="font-size:18px;">
-                            Visit Charge: ₹300 (adjustable in final bill)
+                            Inspection / Visit Charge: ₹300 <span style="font-size:14px;">(adjustable in final bill)</span>
                         </p>
+
+                        <!-- Trust Line -->
+                        <p class="text-center mt-2">
+                            Same-Day AC Repair • Doorstep Service • Transparent Pricing
+                        </p>
+
                     </div>
                 </div>
             </div>
@@ -36,62 +46,78 @@
         <div class="cs-service-details-col">
             <p class="text-justify">
 
-                Looking for quick and reliable AC repair? We offer installation, deep cleaning, servicing, gas refilling, PCB repair, and complete maintenance for all major air conditioner brands. Our trained technicians provide fast doorstep service with transparent pricing.
+                Looking for <strong>fast and reliable AC repair services near you</strong>?  
+                We provide professional air conditioner repair, servicing, installation, gas refilling, 
+                and maintenance for residential customers. Our experienced technicians offer 
+                <strong>quick doorstep AC service</strong> with honest diagnosis and upfront pricing.
 
                 <br><br>
 
-                <strong>Our AC Services Include:</strong>
-                <br><br>
-
-                <strong>• AC Installation</strong><br>
-                Professional installation for Split, Window, and Inverter AC units ensuring perfect fitting and optimal cooling.
+                Whether your AC is not cooling, leaking water, making noise, or showing error codes,
+                we ensure efficient repair solutions to restore optimal cooling performance.
 
                 <br><br>
 
-                <strong>• AC Repair</strong><br>
-                Complete diagnosis and repair for cooling issues, gas leakage, PCB faults, fan problems, noise issues, water leakage, and system failure.
+                <strong>Our AC Repair & Service Solutions Include:</strong>
+                <br><br>
+
+                <strong>• AC Installation Service</strong><br>
+                Expert installation of Split AC, Window AC, and Inverter AC units with proper fitting,
+                gas pressure check, and performance testing for long-lasting cooling.
 
                 <br><br>
 
-                <strong>• AC Service & Cleaning</strong><br>
-                Deep cleaning, filter wash, coil cleaning, blower cleaning, and full AC tune-up to improve cooling and reduce electricity consumption.
+                <strong>• AC Repair & Fault Diagnosis</strong><br>
+                Complete inspection and repair for cooling issues, compressor problems, PCB repair,
+                gas leakage, fan motor issues, unusual noise, power failure, and water leakage.
+
+                <br><br>
+
+                <strong>• AC Servicing & Deep Cleaning</strong><br>
+                Thorough AC servicing including filter cleaning, coil cleaning, blower cleaning,
+                drain pipe cleaning, and full system tune-up to improve cooling efficiency and reduce electricity bills.
 
                 <br><br>
 
                 <strong>• AC Gas Refilling</strong><br>
-                Accurate refrigerant refilling (R22 / R32 / R410A) with leakage testing and performance optimization.
+                Accurate refrigerant refilling (R22, R32, R410A) with proper leakage testing,
+                vacuuming, and cooling performance optimization.
 
                 <br><br>
 
-                <strong>• AC Maintenance</strong><br>
-                Preventive service to avoid breakdowns during peak summer seasons.
+                <strong>• AC Preventive Maintenance</strong><br>
+                Regular maintenance services to prevent sudden breakdowns during peak summer
+                and extend the life of your air conditioner.
 
                 <br><br>
 
-                <strong>• AC Replacement</strong><br>
-                Assistance in replacing old AC units with new energy-efficient models and proper installation.
+                <strong>• AC Replacement Assistance</strong><br>
+                Guidance for replacing old or inefficient AC units with new energy-efficient models,
+                including safe removal and fresh installation.
 
                 <br><br>
 
-                <strong>Why Choose Us?</strong><br>
-                • Experienced and verified technicians<br>
-                • Same-day home service<br>
-                • Affordable charges with upfront pricing<br>
-                • No hidden fees<br>
-                • We service all major AC brands
+                <strong>Why Choose Our AC Repair Service?</strong><br>
+                • Skilled & background-verified technicians<br>
+                • Same-day home service availability<br>
+                • Affordable and transparent pricing<br>
+                • No hidden charges or unnecessary upselling<br>
+                • Service support for all major AC brands
 
                 <br><br>
 
-                <strong>Brand Disclaimer:</strong><br>
-                We are an independent home appliance repair service provider.  
-                We are not affiliated with, authorized by, or associated with brands such as LG, Samsung, Daikin, Voltas, Hitachi, Whirlpool, or any other manufacturer.  
-                We provide out-of-warranty repair and maintenance services only.
+                <strong>Brand & Authorization Disclaimer:</strong><br>
+                We are an <strong>independent air conditioner repair service provider</strong>.
+                We are not authorized, affiliated, or associated with any AC brand or manufacturer,
+                including LG, Samsung, Daikin, Voltas, Hitachi, Whirlpool, or others.
+                All services provided are out-of-warranty repair and maintenance services
+                based on customer requests.
 
                 <br><br>
 
-                Book your AC repair today and restore perfect cooling comfort.
+                <strong>Book your AC repair service today</strong> and enjoy cool, comfortable,
+                and hassle-free air conditioning at home.
             </p>
-
         </div>
     </div>
 </div>

@@ -12,75 +12,101 @@
         <div class="row justify-content-center">
             <div class="col-lg-12">
                 <div class="card shadow-lg border-0 rounded-lg p-4 bg-primary">
-                    <h2 class="text-center mb-4" style="font-weight:700;">
-                        About Us
+                    
+                    <!-- H1 for SEO -->
+                    <h2 class="text-center mb-4 text-white" style="font-weight:700;">
+                        Trusted Local Home Appliance Repair Services
                     </h2>
 
+                    <!-- Intro paragraph optimized for Ads + SEO -->
                     <p class="text-white text-center mb-4" style="font-size:16px;">
-                        We are a local home appliance repair service provider offering fast,
-                        reliable, and affordable repair solutions for households in your area.
-                        Our goal is simple — deliver expert service without unnecessary delays,
-                        hidden charges, or complications.
+                        We provide fast, reliable, and affordable <strong>home appliance repair services</strong>
+                        with doorstep support. Our expert technicians help households get their appliances
+                        repaired quickly without hidden charges, unnecessary delays, or complicated processes.
+                        Whether it’s urgent repair or regular servicing, we focus on quality work and customer satisfaction.
                     </p>
 
                     <hr class="text-white">
 
                     <div class="row text-white">
                         <div class="col-md-12">
-                            <h3 class="mb-3 text-white" style="font-weight:600;">Who We Are</h3>
+
+                            <!-- Who We Are -->
+                            <h3 class="mb-3 text-white" style="font-weight:600;">
+                                Who We Are
+                            </h3>
                             <p class="mb-4">
-                                We are trained technicians with hands-on experience in servicing major
-                                home appliances. Our team is dedicated to providing practical repairs,
-                                honest advice, and dependable service quality for everyday households.
-                                We operate independently and focus solely on providing doorstep repair support.
+                                We are a team of experienced and trained appliance repair technicians offering
+                                professional doorstep repair services. With hands-on field experience,
+                                we understand common appliance issues and provide practical, cost-effective solutions.
+                                Our services are designed for residential customers who need dependable and quick repairs
+                                from local professionals they can trust.
                             </p>
 
-                            <h3 class="mb-3 text-white" style="font-weight:600;">What We Do</h3>
-                            <p class="mb-4">
-                                We specialize in repairing and servicing home appliances, including:
+                            <!-- What We Do -->
+                            <h3 class="mb-3 text-white" style="font-weight:600;">
+                                What We Do
+                            </h3>
+                            <p class="mb-3">
+                                We specialize in diagnosing, repairing, and servicing a wide range of household appliances, including:
                             </p>
+
                             <ul class="mb-4">
-                                <li>Air Conditioners (AC)</li>
-                                <li>Refrigerators</li>
-                                <li>Washing Machines</li>
-                                <li>Microwave Ovens</li>
+                                <li>Air Conditioner (AC) Repair & Servicing</li>
+                                <li>Refrigerator Repair</li>
+                                <li>Washing Machine Repair</li>
+                                <li>Microwave Oven Repair</li>
                             </ul>
 
                             <p class="mb-4">
-                                From minor issues to complete breakdowns, our technicians provide inspection,
-                                diagnosis, repair, servicing, and replacement of faulty components when required.
+                                Our technicians handle everything from minor faults to complete appliance breakdowns.
+                                Services include inspection, fault diagnosis, repair, preventive servicing,
+                                and replacement of defective parts when required, all at your doorstep.
                             </p>
 
-                            <h3 class="mb-3 text-white" style="font-weight:600;">Not a Manufacturer or Authorized Service Center</h3>
+                            <!-- Disclaimer for Google Ads compliance -->
+                            <h3 class="mb-3 text-white" style="font-weight:600;">
+                                Independent Repair Service Provider
+                            </h3>
                             <p class="mb-4">
-                                We are an independent local repair service provider. We are NOT linked with,
-                                partnered with, or authorized by any appliance brands or manufacturers.
-                                All brand names and trademarks belong to their respective owners and are used
-                                only to describe the types of appliances we service. Our role is to provide
-                                doorstep repair assistance based on customer requests.
+                                We are an independent local appliance repair service provider.
+                                We are <strong>not an authorized service center</strong> for any appliance brand or manufacturer.
+                                Any brand names, logos, or trademarks mentioned on this website belong to their respective owners
+                                and are used only for identification purposes. Our services are provided based solely on customer requests.
                             </p>
 
-                            <h3 class="mb-3 text-white" style="font-weight:600;">Our Commitment</h3>
+                            <!-- Commitment -->
+                            <h3 class="mb-3 text-white" style="font-weight:600;">
+                                Our Service Commitment
+                            </h3>
                             <p class="mb-4">
-                                We believe in transparent pricing, genuine service, and quick turnaround times.
-                                Every repair is carried out with care, honesty, and a focus on long-term reliability.
+                                We are committed to transparent pricing, honest advice, and fast turnaround times.
+                                Every repair is carried out with care and professionalism, focusing on long-term performance
+                                and customer satisfaction. Our goal is to build trust through consistent service quality
+                                and reliable after-service support.
                             </p>
 
-                            <h3 class="mb-3 text-white" style="font-weight:600;">Get in Touch</h3>
+                            <!-- Contact Section with CTA -->
+                            <h3 class="mb-3 text-white" style="font-weight:600;">
+                                Contact Us for Quick Assistance
+                            </h3>
+
                             <p class="mb-2 text-white text-capitalize">
-                                <strong>Phone:</strong><br>
+                                <strong>Call Now:</strong><br>
                                 <a href="tel:<?= PLATFORMCONTACT ?>" class="text-white">
                                     <?= PLATFORMCONTACT ?>
                                 </a>
                             </p>
+
                             <p class="mb-2 text-white text-capitalize">
                                 <strong>Email:</strong><br>
                                 <a href="mailto:<?= PLATFORMEMAIL ?>" class="text-white">
                                     <?= PLATFORMEMAIL ?>
                                 </a>
                             </p>
+
                             <p class="mb-0 text-white text-capitalize">
-                                <strong>Address:</strong><br>
+                                <strong>Service Address:</strong><br>
                                 <?= PLATFORMADD ?>
                             </p>
 

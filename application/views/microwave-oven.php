@@ -12,15 +12,23 @@
                                 <div class="cs-service-details-col animated bounceInLeft slow delay-250">
                                     <img class="imge-1 rounded box" 
                                          src="<?= base_url() ?>assets/images/service/microwave1.png" 
-                                         alt="Microwave Oven Repair Service">
+                                         alt="Microwave Oven Repair Service Near Me">
                                 </div>
                             </div>
                         </div>
 
+                        <!-- H1 -->
+                        <h3 class="text-center mt-3 fw-bold">
+                            Microwave Oven Repair & Service at Home
+                        </h3>
+
                         <!-- Visit Charge -->
-                        <h3 class="text-center mt-3 fw-bold">Microwave Oven Repair & Service</h3>
                         <p class="text-center text-danger fw-bold mt-2" style="font-size:18px;">
-                            Visit Charge: ₹300 (adjustable in final bill)
+                            Inspection / Visit Charge: ₹300 <span style="font-size:14px;">(adjustable in final bill)</span>
+                        </p>
+
+                        <p class="text-center mt-2">
+                            Same-Day Doorstep Service • Safe Repairs • Transparent Pricing
                         </p>
 
                     </div>
@@ -38,60 +46,76 @@
 
             <p class="text-justify">
 
-                Looking for reliable microwave oven repair? We provide fast, on-site service for solo, grill, and convection microwaves. From heating failures to sparking issues, our trained technicians handle all major brands and models with proper diagnostic tools and genuine spare parts.
+                Looking for <strong>fast and reliable microwave oven repair service near you</strong>?  
+                We provide professional <strong>microwave repair at home</strong> for Solo, Grill,
+                and Convection microwave ovens. Our trained technicians diagnose and repair issues
+                safely using proper tools and quality spare parts.
 
                 <br><br>
 
-                <strong>Our Microwave Oven Services Include:</strong>
+                Whether your microwave is not heating, sparking, making noise, or not turning on,
+                we ensure quick and effective solutions to restore safe and efficient operation.
+
+                <br><br>
+
+                <strong>Our Microwave Oven Repair Services Include:</strong>
                 <br><br>
 
                 <strong>• Microwave Heating Repair</strong><br>
-                Fixes for low heating, no heating, magnetron faults, capacitor issues, and transformer failures.
+                Fixing low or no heating issues caused by magnetron failure,
+                capacitor faults, transformer problems, or diode issues.
 
                 <br><br>
 
-                <strong>• Control Panel & Button Repair</strong><br>
-                Repair of non-responsive buttons, touchpad issues, display problems, and sensor faults.
+                <strong>• Control Panel & Display Repair</strong><br>
+                Repair of non-working buttons, touch panels, digital display errors,
+                sensor problems, and PCB-related faults.
 
                 <br><br>
 
                 <strong>• Turntable & Motor Repair</strong><br>
-                Solutions for turntable not rotating, jerking, or motor failure.
+                Solutions for turntable not rotating, uneven rotation,
+                motor failure, or coupling issues.
 
                 <br><br>
 
-                <strong>• Sparking & Burning Smell Issues</strong><br>
-                Safety checks and repair for sparking, burnt mica sheets, faulty waveguides, and internal damage.
+                <strong>• Sparking, Burning Smell & Safety Issues</strong><br>
+                Complete inspection and repair for sparking inside the oven,
+                damaged mica sheets, faulty waveguides, and internal electrical faults.
 
                 <br><br>
 
-                <strong>• Door & Lock Problems</strong><br>
-                Proper fixing of door switch issues, latch damage, and safety lock malfunctions.
+                <strong>• Door, Lock & Switch Repair</strong><br>
+                Repair and replacement of door switches, latch assemblies,
+                and safety lock mechanisms to ensure safe usage.
 
                 <br><br>
 
-                <strong>• Installation & Setup</strong><br>
-                Safe installation for new or relocated microwave ovens with correct electrical alignment.
+                <strong>• Microwave Installation & Reinstallation</strong><br>
+                Safe installation and setup for new or relocated microwave ovens
+                with proper electrical alignment and ventilation checks.
 
                 <br><br>
 
-                <strong>Why Choose Us?</strong><br>
-                • Experienced and verified technicians<br>
-                • Same-day home service<br>
-                • Genuine spare parts<br>
-                • Affordable rates with clear pricing<br>
-                • Service for all microwave brands and models
+                <strong>Why Choose Our Microwave Repair Service?</strong><br>
+                • Experienced & background-verified technicians<br>
+                • Same-day doorstep service availability<br>
+                • Genuine and compatible spare parts<br>
+                • Affordable pricing with clear estimates<br>
+                • Service support for all microwave brands and models
 
                 <br><br>
 
-                <strong>Brand Disclaimer:</strong><br>
-                We are an independent home appliance repair service provider.  
-                We are not affiliated with or authorized by brands such as IFB, LG, Samsung, Whirlpool, Panasonic, or any manufacturer.  
-                We offer out-of-warranty repair and maintenance services only.
+                <strong>Brand & Authorization Disclaimer:</strong><br>
+                We are an <strong>independent home appliance repair service provider</strong>.
+                We are not authorized, affiliated, or associated with any microwave brand or manufacturer,
+                including IFB, LG, Samsung, Whirlpool, Panasonic, or others.
+                All services provided are out-of-warranty repair and maintenance services only.
 
                 <br><br>
 
-                Book your microwave repair now and get quick, safe, and reliable service at your doorstep.
+                <strong>Book your microwave oven repair today</strong> and get quick,
+                safe, and reliable service at your doorstep.
             </p>
 
         </div>

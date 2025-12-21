@@ -7,21 +7,25 @@
             <div class="col-lg-12">
                 <div class="card shadow-lg border-0 rounded-lg p-4 bg-primary text-white">
 
+                    <!-- H1 -->
                     <h2 class="text-center mb-4" style="font-weight:700;">
-                        Brand Disclaimer
+                        Brand Disclaimer & Trademark Notice
                     </h2>
 
                     <p class="mb-4">
-                        We are an independent home appliance repair service provider offering
-                        out-of-warranty repair and maintenance support for household appliances.
-                        Our services cover a wide range of brands, but we do not represent or act
-                        on behalf of any manufacturer.
+                        We are an <strong>independent home appliance repair service provider</strong>
+                        offering paid, out-of-warranty repair and maintenance services for household
+                        appliances. We operate independently and do not represent, act on behalf of,
+                        or claim association with any appliance manufacturer or brand.
                     </p>
 
-                    <h3 class="mb-3" style="font-size:20px;">No Brand Affiliation</h3>
+                    <!-- No Affiliation -->
+                    <h3 class="mb-3" style="font-size:20px;">
+                        No Brand Affiliation or Authorization
+                    </h3>
                     <p class="mb-4">
-                        We are not affiliated with, authorized by, or endorsed by any appliance
-                        companies or brand owners. This includes, but is not limited to:
+                        We are <strong>not affiliated with, authorized by, sponsored by, or endorsed by</strong>
+                        any appliance brand, manufacturer, or company. This includes, but is not limited to:
                     </p>
 
                     <ul class="mb-4">
@@ -40,38 +44,46 @@
                     </ul>
 
                     <p class="mb-4">
-                        All trademarks, brand names, logos, and images belong to their respective
-                        owners and are used on this website solely for the purpose of identifying
-                        the type of appliances we repair. Their usage does not imply any partnership,
-                        authorization, or association.
+                        All trademarks, brand names, logos, and product names mentioned on this website
+                        are the property of their respective owners. Any reference to such brands is made
+                        <strong>solely for identification purposes</strong> to indicate the types of appliances
+                        we repair and service.
                     </p>
 
-                    <h3 class="mb-3" style="font-size:20px;">Independent Repair Service</h3>
+                    <!-- Independent Service -->
+                    <h3 class="mb-3" style="font-size:20px;">
+                        Independent Doorstep Repair Services
+                    </h3>
                     <p class="mb-4">
-                        We provide independent doorstep repair services for air conditioners,
-                        refrigerators, washing machines, and microwave ovens. Our technicians
-                        specialize in diagnosing and repairing appliances that are out of warranty.
-                        All services are provided exclusively by our own team.
+                        We provide independent doorstep repair and maintenance services for appliances
+                        such as air conditioners, refrigerators, washing machines, and microwave ovens.
+                        All services are carried out by our own technicians and are not connected to
+                        official brand service centers.
                     </p>
 
-                    <h3 class="mb-3" style="font-size:20px;">Out-of-Warranty Service Only</h3>
+                    <!-- Warranty -->
+                    <h3 class="mb-3" style="font-size:20px;">
+                        Out-of-Warranty Services Only
+                    </h3>
                     <p class="mb-4">
-                        We do not provide free repair services, warranty repairs, or official brand
-                        service support. Customers seeking warranty coverage must contact the official
-                        brand customer care or service center.
+                        We do not offer free repairs, warranty services, or manufacturer-authorized support.
+                        Customers seeking warranty coverage, free servicing, or official brand support
+                        should directly contact the respective brand’s authorized service center or customer care.
                     </p>
 
-                    <h3 class="mb-3" style="font-size:20px;">Purpose of Information</h3>
+                    <!-- Purpose -->
+                    <h3 class="mb-3" style="font-size:20px;">
+                        Purpose of Brand References
+                    </h3>
                     <p class="mb-4">
-                        Any references to brand names on this website are strictly used to help
-                        customers identify the type of appliance they need serviced. They are not
-                        intended to mislead users or create confusion regarding association with
-                        brand manufacturers.
+                        Brand references on this website are used strictly to help customers understand
+                        the appliance types and models we service. They are not intended to mislead users,
+                        create confusion, or imply any official relationship with brand manufacturers.
                     </p>
 
                     <p class="mb-0">
-                        If you have any questions regarding this disclaimer, you may contact us
-                        using the details on our Contact Us page.
+                        If you have any questions regarding this disclaimer or our services,
+                        please contact us through the details provided on our <strong>Contact Us</strong> page.
                     </p>
 
                 </div>
